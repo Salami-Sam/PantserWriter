@@ -25,5 +25,5 @@ Why use this software?
 **Just download and extract the .zip file.**
 
 **Known Bugs**
-  1. When switching files, the file that you are switching from will occasionally overwrite the file you are switching to (happens with note files and chapter files).
+  1. **FIXED** When switching files, the file that you are switching from will occasionally overwrite the file you are switching to (happens with note files and chapter files).
   
