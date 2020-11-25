@@ -1,4 +1,5 @@
 # PantserWriter Beta
+**PLEASE LOOK BELOW AT KNOWN BUGS BEFORE USING**
 
 Supported platform(s): **Windows 10**
 
@@ -22,8 +23,6 @@ Why use this software?
   8. Manual syncing using the application's user interface (if you added a folder or file to your project while the application was running, you will have to restart the application to see them in the user interface)
 
 **Just download and extract the .zip file.**
-
-**Some minor bugs may still exist in the beta version**
 
 **Known Bugs**
   1. When switching files, the file that you are switching from will occasionally overwrite the file you are switching to (happens with note files and chapter files).
