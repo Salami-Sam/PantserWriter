@@ -20,7 +20,7 @@ Why use this software?
   5. Creating a sequel project that automatically imports all of your notes from the original project within the application
   6. Spellcheck
   7. Numbered lists
-  8. Manual syncing using the application's user interface (if you added a folder or file to your project while the application was running, you will have to restart the application to see them in the user interface)
+  8. Manual file syncing with the application's user interface (if you added a folder or file to your project while the application was running, you will have to restart the application to see them in the user interface)
 
 **Just download and extract the .zip file.**
 
