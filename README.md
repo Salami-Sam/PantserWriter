@@ -1,4 +1,4 @@
-# PantserWriter Beta Release
+# PantserWriter Beta
 
 Supported platform(s): **Windows 10**
 
