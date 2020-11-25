@@ -25,8 +25,10 @@ Why use this software?
 **Just download and extract the .zip file.**
 
 **Known Bugs**
+  
   \[none\]
 
 **Fixed Bugs**
-  1. **FIXED:** When switching files, the file that you are switching from will occasionally overwrite the file you are switching to (happens with note files and chapter files).
+  1. **FIXED (11/25/2020):** When switching files, the file that you are switching from will occasionally overwrite the file you are switching to (happens with note files and chapter files).
+  2. **FIXED (11/25/2020):** Current note's content would not update when deleting a note.
   
