@@ -16,7 +16,7 @@ Why use this software?
   4. **Blazing fast workflow** using mostly-common hotkeys. You won't ever have to take your hands off the keyboard while inside the application. Feel the freedom and stay in the zone of writing! (Some hotkeys may not be implemented during beta.)
   5. It's **completely free**.
 
-**Some features that are currently unavailable:**
+**Some features that are currently unavailable but are planned for the full version:**
   1. Backup a project to another directory/folder from within the application
   2. Open another project after already opening one; you will have to exit the program to open a different project
   3. Keyword search within the body of a file
