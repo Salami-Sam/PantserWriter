@@ -9,7 +9,7 @@ Why use this software?
   1. The **integrated note-taking companion with an intuitive and unobtrusive design** allows you to manage and edit notes on the fly without disrupting your workflow.
   2. **Any note that you create can easily be used as a template** for other notes. Do you have a preferred format for character profiles? Just create an empty character profile once, then use it as a template for all of your characters! You can use these templates in all of your PantserWriter projects as well; just copy the folder containing your templates into the "notes" folder of the desired project. (see unavailable feature #8 for details during beta)
   3. PantserWriter **projects use your computer's default directory/file system, and every file is simply a .rtf file**, so you can open and edit them in most word processors. This also means that if you decide you don't like PantserWriter, it will take virtually no work to move to another word processor.
-  4. **Blazing fast workflow** using mostly-common hotkeys. You won't ever have to take your hands off the keyboard while inside the application. Feel the freedom and stay in the zone of writing!
+  4. **Blazing fast workflow** using mostly-common hotkeys. You won't ever have to take your hands off the keyboard while inside the application. Feel the freedom and stay in the zone of writing! (Some hotkeys may not be implemented during beta.)
   5. It's **completely free**.
 
 **Some features that are currently unavailable:**
@@ -21,6 +21,7 @@ Why use this software?
   6. Spellcheck
   7. Numbered lists
   8. Manual file syncing with the application's user interface (if you added a folder or file to your project while the application was running, you will have to restart the application to see them in the user interface)
+  9. Underline text
 
 **Just download and extract the .zip file.**
 
