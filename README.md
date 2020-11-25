@@ -3,6 +3,8 @@
 
 Download from Google Drive: https://drive.google.com/drive/folders/1ul75QMuAp1fzLnTpkSqRNpRF9McdFF1A?usp=sharing
 
+(Note that you will have to give the application permission to run.)
+
 Supported platform(s): **Windows 10**
 
 Why use this software?
