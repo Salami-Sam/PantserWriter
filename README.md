@@ -25,8 +25,7 @@ Why use this software?
 **Just download and extract the .zip file.**
 
 **Known Bugs**
-  
-  \[none\]
+  1. Word count is off by +/- 1 word.
 
 **Fixed Bugs**
   1. **FIXED (11/25/2020):** When switching files, the file that you are switching from will occasionally overwrite the file you are switching to (happens with note files and chapter files).
