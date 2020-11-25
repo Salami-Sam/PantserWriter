@@ -1,6 +1,8 @@
 # PantserWriter Beta
 **PLEASE LOOK BELOW AT KNOWN BUGS BEFORE USING**
 
+Download from Google Drive: https://drive.google.com/drive/folders/1ul75QMuAp1fzLnTpkSqRNpRF9McdFF1A?usp=sharing
+
 Supported platform(s): **Windows 10**
 
 Why use this software?
