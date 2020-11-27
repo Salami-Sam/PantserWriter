@@ -10,11 +10,12 @@ Supported platform(s): **Windows 10**
 Why use this software?
 
 **Here are some of PantserWriter's unique features that you may like:**
-  1. The **integrated note-taking companion with an intuitive and unobtrusive design** allows you to manage and edit notes on the fly without disrupting your workflow. As of 11/27/2020, you can now right click an a word in your manuscript that matches one of your notes' names to directly open it. No more searching needed!
-  2. **Any note that you create can easily be used as a template** for other notes. Do you have a preferred format for character profiles? Just create an empty character profile once, then use it as a template for all of your characters! You can use these templates in all of your PantserWriter projects as well; just copy the folder containing your templates into the "notes" folder of the desired project. (see unavailable feature #8 for details during beta)
-  3. PantserWriter **projects use your computer's default directory/file system, and every file is simply a .rtf file**, so you can open and edit them in most word processors. This also means that if you decide you don't like PantserWriter, it will take virtually no work to move to another word processor.
-  4. **Blazing fast workflow** using mostly-common hotkeys. You won't ever have to take your hands off the keyboard while inside the application. Feel the freedom and stay in the zone of writing! (Some hotkeys may not be implemented during beta.)
-  5. It's **completely free**.
+  1. The **integrated note-taking companion with an intuitive and unobtrusive design** allows you to manage and edit notes on the fly without disrupting your workflow.
+  2. Right click any word or phrase in your manuscript and a context menu will appear with a list of all of your notes whose names closely resembles the word/phrase so that you can **open your notes without having to search for them**.
+  3. **Any note that you create can easily be used as a template** for other notes. Do you have a preferred format for character profiles? Just create an empty character profile once, then use it as a template for all of your characters! You can use these templates in all of your PantserWriter projects as well; just copy the folder containing your templates into the "notes" folder of the desired project. (see unavailable feature #8 for details during beta)
+  4. PantserWriter **projects use your computer's default directory/file system, and every file is simply a .rtf file**, so you can open and edit them in most word processors. This also means that if you decide you don't like PantserWriter, it will take virtually no work to move to another word processor.
+  5. **Blazing fast workflow** using mostly-common hotkeys. You won't ever have to take your hands off the keyboard while inside the application. Feel the freedom and stay in the zone of writing! (Some hotkeys may not be implemented during beta.)
+  6. It's **completely free**.
 
 **Some features that are currently unavailable but are planned for the full version:**
   1. Backup a project to another directory/folder from within the application
