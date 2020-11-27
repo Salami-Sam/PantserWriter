@@ -1,6 +1,8 @@
 # PantserWriter Beta
 **PLEASE LOOK BELOW AT KNOWN BUGS BEFORE USING**
 
+Bug reports are appreciated.
+
 Download from Google Drive: https://drive.google.com/drive/folders/1ul75QMuAp1fzLnTpkSqRNpRF9McdFF1A?usp=sharing
 
 (Note that you will have to give the application permission to run.)
