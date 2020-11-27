@@ -40,5 +40,5 @@ Why use this software?
 
 **Updates**
   1. **11/25/2020:** Changed how zooming works. You can now use Ctrl + scrollwheel to zoom in and out freely and the application will remember your zoom settings. No manual typing option exists right now for zooming.  Overall workflow/usability improvements have been made.
-  2. **11/27/2020** You can now right click on a word to see if it matches the name of your notes. A context menu will appear so that you can click on the matching not's name to open it in a new (bare bones) note companion. For example, say you are writting about a man named John. You reveal something new about his character and now you want to add that new info to his character sheet in your notes. Just right click on his name and you can directly access it from the context menu, no searching needed.
+  2. **11/27/2020** You can now right click on a word to see if it matches the name of your notes. A context menu will appear with every note whose name is closely matched so that you can click on one to open in a new (bare bones) note companion to edit. For example, say you are writting about a man named John. You reveal something new about his character and now you want to add that new info to his character sheet in your notes. Just right click on his name and you can directly access it from the context menu, no searching needed.
   
