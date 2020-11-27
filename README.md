@@ -38,6 +38,7 @@ Why use this software?
   1. Word count is off by +/- 1 word.
   2. When holding Ctrl + Z to undo, the cursor gets out of place and not everything is able to be undone that should be.
   3. A Windows sound plays when using Ctrl + Shift + Z to open keyword context menu, but not when using right click on the mouse.
+  4. Ctrl + Z still deletes everything in the bare bones note companion editor.
 
 **Fixed Bugs**
   1. **FIXED (11/25/2020):** When switching files, the file that you are switching from will occasionally overwrite the file you are switching to (happens with note files and chapter files).
