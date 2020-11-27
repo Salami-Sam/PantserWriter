@@ -18,6 +18,7 @@ Why use this software?
   6. It's **[completely free]**.
 
 **About this project**
+
   I am a hobbiest fiction writer who is a currently a full-time student in a computer science progam. I am a proud pantser (or gardener, or whatever term you prefer), but I get bogged down in having to constantly open and close different note files to keep track of everything as I draft. I wanted a word processor that would allow me to open note files based on keywords in my manuscript so that I wouldn't have to keep searching through a file system or balancing two big documents on my screen at the same time. Notion and Bibisco both came close for me (check those out by the way), but I still wasn't satisfied. So besides this being a resume-building project for me, it's also aimed to be the writing software of my dreams. If you are a writer that hates outlining/plotting/planning but often struggles to keep track of things (like characters, locations, lore, magic rules, etc) in your story as it gets bigger and bigger, you might want to give PantserWriter a try.
 
 **Some features that are currently unavailable but are planned for the full version:**
