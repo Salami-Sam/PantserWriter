@@ -26,7 +26,7 @@ Why use this software?
 **Some features that are currently unavailable but are planned for the full version:**
   1. Backup a project to another directory/folder from within the application
   2. Open another project after already opening one; you will have to exit the program to open a different project
-  3. Keyword search within the body of a file **Update 11/27/2020:** You can now open a note based on right clicking on a keyword in your manuscript's body.
+  3. Keyword search within the body of a file **Update 11/27/2020:** This feature is now fully available
   4. Combining the chapters within the manuscript folder in order to create one manuscript document (you could just use a single file if this is an issue)
   5. Creating a sequel project that automatically imports all of your notes from the original project within the application
   6. Spellcheck
@@ -38,16 +38,18 @@ Why use this software?
 
 **Known Bugs**
   1. Word count is off by +/- 1 word.
-  2. When holding Ctrl + Z to undo, the cursor gets out of place and not everything is able to be undone that should be.
+  2. When holding Ctrl + Z to undo, the cursor gets out of place and not everything is able to be undone that should be. **UPDATE (11/27/2020)** The cursor position is more accurate than before, but not everything becomes undone as it should.
   3. A Windows sound plays when using Ctrl + Shift + Z to open keyword context menu, but not when using right click on the mouse.
-  4. Ctrl + Z still deletes everything in the bare bones note companion editor.
+  4. Undo changes the zoom percentage when holding down Ctrl + Z.
 
 **Fixed Bugs**
   1. **FIXED (11/25/2020):** When switching files, the file that you are switching from will occasionally overwrite the file you are switching to (happens with note files and chapter files).
   2. **FIXED (11/25/2020):** Current note's content would not update when deleting a note.
   3. **FIXED (11/27/2020):** Undo no longer just deletes everything you have written.
+  4. **FIXED (11/27/2020):** Ctrl + Z still deletes everything in the bare bones note companion editor.
 
 **Updates**
   1. **11/25/2020:** Changed how zooming works. You can now use Ctrl + scrollwheel to zoom in and out freely and the application will remember your zoom settings. No manual typing option exists right now for zooming.  Overall workflow/usability improvements have been made.
   2. **11/27/2020** You can now right click on a word to see if it matches the name of your notes. A context menu will appear with every note whose name is closely matched so that you can click on one to open in a new (bare bones) note companion to edit. For example, say you are writting about a man named John. You reveal something new about his character and now you want to add that new info to his character sheet in your notes. Just right click on his name and you can directly access it from the context menu, no searching needed.
+  3. **11/27/2020** Implemented bare bones note editor for note companion, cleaned glitches when closing bare bones editor. Also, you can now switch the note in the bare bones editor via the right click context menu. Notes are saved automatically before switching. 
   
