@@ -24,29 +24,29 @@ Why use this software?
   I am a hobbiest fiction writer who is a currently a full-time student in a computer science progam. I am a proud pantser (or gardener, or whatever term you prefer), but I get bogged down in having to constantly open and close different note files to keep track of everything as I draft. I wanted a word processor that would allow me to open note files based on keywords in my manuscript so that I wouldn't have to keep searching through a file system or balancing two big documents on my screen at the same time. Notion and Bibisco both came close for me (check those out by the way), but I still wasn't satisfied. So besides this being a resume-building project for me, it's also aimed to be the writing software of my dreams. If you are a writer that hates outlining/plotting/planning but often struggles to keep track of things (like characters, locations, lore, magic rules, etc) in your story as it gets bigger and bigger, you might want to give PantserWriter a try.
 
 **Some features that are currently unavailable but are planned for the full version:**
-  1. Backup a project to another directory/folder from within the application
+  1. Backup a project to another directory/folder from within the application **Update 12/09/2020:** This feature is now fully available
   2. Open another project after already opening one; you will have to exit the program to open a different project
-  3. Keyword search within the body of a file **Update 11/27/2020:** This feature is now fully available
+  3. Keyword search within the body of a file (chapter and notes) **Update 11/27/2020:** This feature is now fully available
   4. Combining the chapters within the manuscript folder in order to create one manuscript document (you could just use a single file if this is an issue)
   5. Creating a sequel project that automatically imports all of your notes from the original project within the application
   6. Spellcheck
   7. Numbered lists
-  8. Manual file syncing with the application's user interface (if you added a folder or file to your project while the application was running, you will have to restart the application to see them in the user interface)
+  8. Manual file syncing with the application's user interface (if you added a folder or file to your project while the application was running, you will have to restart the application to see them in the user interface) **Update 12/09/2020:** This feature is now fully available
   9. Underline text
 
 **Just download and extract the .zip file.**
 
 **Known Bugs**
   1. Word count is off by +/- 1 word.
-  2. When holding Ctrl + Z to undo, the cursor gets out of place and not everything is able to be undone that should be. **UPDATE (11/27/2020)** The cursor position is more accurate than before, but not everything becomes undone as it should.
-  3. A Windows sound plays when using Ctrl + Shift + Z to open keyword context menu, but not when using right click on the mouse.
-  4. Undo changes the zoom percentage when holding down Ctrl + Z.
+  2. A Windows sound plays when using Ctrl + Shift + Z to open keyword context menu, but not when using right click on the mouse..
 
 **Fixed Bugs**
   1. **FIXED (11/25/2020):** When switching files, the file that you are switching from will occasionally overwrite the file you are switching to (happens with note files and chapter files).
   2. **FIXED (11/25/2020):** Current note's content would not update when deleting a note.
   3. **FIXED (11/27/2020):** Undo no longer just deletes everything you have written.
   4. **FIXED (11/27/2020):** Ctrl + Z still deletes everything in the bare bones note companion editor.
+  5. **FIXED (12/09/2020):** Undo changes the zoom percentage when holding down Ctrl + Z.
+  6. **MOSTLY FIXED (12/09/2020):** When holding Ctrl + Z to undo, the cursor gets out of place and not everything is able to be undone that should be. **UPDATE (12/09/2020)** The cursor position is usually accurate, especially when tapping Ctrl + Z rather than holding. I am continuing to find a better solution using .NET Framework and Windows Forms.
 
 **Updates**
   1. **11/25/2020:** Changed how zooming works. You can now use Ctrl + scrollwheel to zoom in and out freely and the application will remember your zoom settings. No manual typing option exists right now for zooming.  Overall workflow/usability improvements have been made.
