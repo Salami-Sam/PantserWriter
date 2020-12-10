@@ -1,13 +1,12 @@
 # PantserWriter Beta
-**PLEASE LOOK BELOW AT KNOWN BUGS BEFORE USING**
 
-Bug reports are appreciated.
+**Just download and extract the .zip file.**
 
 Download from Google Drive: https://drive.google.com/drive/folders/1ul75QMuAp1fzLnTpkSqRNpRF9McdFF1A?usp=sharing
 
-(Note that you will have to give the application permission to run.)
-
 Supported platform(s): **Windows 10**
+
+(Note that you will have to give the application permission to run.)
 
 Why use this software?
 
@@ -33,8 +32,6 @@ Why use this software?
   7. Numbered lists
   8. Manual file syncing with the application's user interface (if you added a folder or file to your project while the application was running, you will have to restart the application to see them in the user interface) **Update 12/09/2020:** This feature is now fully available
   9. Underline text
-
-**Just download and extract the .zip file.**
 
 **Known Bugs**
   1. Word count is off by +/- 1 word.
