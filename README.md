@@ -42,7 +42,7 @@ Why use this software?
   3. **FIXED (11/27/2020):** Undo no longer just deletes everything you have written.
   4. **FIXED (11/27/2020):** Ctrl + Z still deletes everything in the bare bones note companion editor.
   5. **FIXED (12/09/2020):** Undo changes the zoom percentage when holding down Ctrl + Z.
-  6. **MOSTLY FIXED (12/09/2020):** When holding Ctrl + Z to undo, the cursor gets out of place and not everything is able to be undone that should be. **UPDATE (12/09/2020)** The cursor position is usually accurate, especially when tapping Ctrl + Z rather than holding. I am continuing to find a better solution using .NET Framework and Windows Forms.
+  6. **FIXED (12/14/2020):** When holding Ctrl + Z to undo, the cursor gets out of place and not everything is able to be undone that should be. **UPDATE (12/09/2020)** The cursor position is usually accurate, especially when tapping Ctrl + Z rather than holding. I am continuing to find a better solution using .NET Framework and Windows Forms.
   7. **FIXED (12/10/2020)** Copy and Paste was not working in version beta 4.
 
 **Updates**
