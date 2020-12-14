@@ -35,6 +35,7 @@ Why use this software?
 
 **Known Bugs**
   1. Word count is off by +/- 1 word. 
+  2. Inserting bullets and/or lists increases paragraph vertical spacing. **UPDATE 12/15/2020** Though this still happens but tools have been added to change the vertical spacing to whatever you want. So you now have complete control over your paragraph spacing.
 
 **Fixed Bugs**
   1. **FIXED (11/25/2020):** When switching files, the file that you are switching from will occasionally overwrite the file you are switching to (happens with note files and chapter files).
