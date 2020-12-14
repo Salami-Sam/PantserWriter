@@ -28,14 +28,13 @@ Why use this software?
   3. Keyword search within the body of a file (chapter and notes) **Update 11/27/2020:** This feature is now fully available
   4. Combining the chapters within the manuscript folder in order to create one manuscript document (you could just use a single file if this is an issue)
   5. Creating a sequel project that automatically imports all of your notes from the original project within the application
-  6. Spellcheck
-  7. Numbered lists
+  6. Spellcheck **AVAILABLE as of 12/14/2020**
+  7. Numbered lists **AVAILABLE as of 12/14/2020**
   8. Manual file syncing with the application's user interface (if you added a folder or file to your project while the application was running, you will have to restart the application to see them in the user interface) **Update 12/09/2020:** This feature is now fully available
-  9. Underline text
+  9. Underline text **AVAILABLE as of 12/14/2020**
 
 **Known Bugs**
-  1. Word count is off by +/- 1 word.
-  2. A Windows sound plays when using Ctrl + Shift + Z to open keyword context menu, but not when using right click on the mouse..
+  1. Word count is off by +/- 1 word. 
 
 **Fixed Bugs**
   1. **FIXED (11/25/2020):** When switching files, the file that you are switching from will occasionally overwrite the file you are switching to (happens with note files and chapter files).
