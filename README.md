@@ -1,4 +1,4 @@
-# PantserWriter Beta
+# PantserWriter Beta (current beta version is beta5.2)
 
 **Just download and extract the .zip file.**
 
