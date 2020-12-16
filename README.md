@@ -2,7 +2,8 @@
 
 **Just download and extract the .zip file.**
 
-Download from Google Drive: https://drive.google.com/drive/folders/1ul75QMuAp1fzLnTpkSqRNpRF9McdFF1A?usp=sharing
+[Download from Google Drive](https://drive.google.com/drive/folders/1ul75QMuAp1fzLnTpkSqRNpRF9McdFF1A?usp=sharing)
+[Facebook](https://m.facebook.com/PantserWriter-101401631866185/)
 
 Supported platform(s): **Windows 10**
 
