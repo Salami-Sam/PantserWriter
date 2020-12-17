@@ -35,6 +35,7 @@ Why use this software?
 
 **Known Bugs**
   1. Word count is off by +/- 1 word. 
+  2. Project doesn't backup properly after the first time.
 
 **Fixed Bugs**
   1. **FIXED (11/25/2020):** When switching files, the file that you are switching from will occasionally overwrite the file you are switching to (happens with note files and chapter files).
