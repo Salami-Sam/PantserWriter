@@ -1,4 +1,4 @@
-# PantserWriter Beta (current beta version is beta5.4) [(see current version notes in the Wiki)](https://github.com/Salami-Sam/PantserWriter/wiki/Current-Version-Notes)
+# PantserWriter Beta (current beta version is beta5.4) [(see current version notes in the Wiki)](https://github.com/Salami-Sam/PantserWriterBeta/wiki/Current-Version-Notes-and-New-Features)
 
 **Just download and extract the .zip file.**
 
