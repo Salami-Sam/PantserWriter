@@ -10,7 +10,7 @@ Supported platform(s): **Windows 10**
 
 (Note that you will have to give the application permission to run.)
 
-Why use this software?
+# Why use this software?
 
 **Here are some of PantserWriter's unique features that you may like:**
   1. The [**integrated note-taking companion with an intuitive and unobtrusive design**] allows you to manage and edit notes on the fly without disrupting your workflow.
@@ -20,7 +20,7 @@ Why use this software?
   5. **[Blazing fast workflow]** using mostly-common hotkeys. You won't ever have to take your hands off the keyboard while inside the application. Feel the freedom and stay in the zone of writing! (Some hotkeys may not be implemented during beta.)
   6. It's **[completely free]**.
 
-**[About this project](https://github.com/Salami-Sam/PantserWriter/wiki/About-This-Project)**
+# **[About this project](https://github.com/Salami-Sam/PantserWriter/wiki/About-This-Project)**
 
 **Some features that are currently unavailable but are planned for the full version:**
   1. Backup a project to another directory/folder from within the application **Update 12/09/2020:** This feature is now fully available
@@ -33,7 +33,7 @@ Why use this software?
   8. Manual file syncing with the application's user interface (if you added a folder or file to your project while the application was running, you will have to restart the application to see them in the user interface) **Update 12/09/2020:** This feature is now fully available
   9. Underline text **AVAILABLE as of 12/14/2020**
 
-**Known Bugs**
+# **Known Bugs**
   1. Word count is off by +/- 1 word. 
   2. Project doesn't backup properly after the first time.
 
