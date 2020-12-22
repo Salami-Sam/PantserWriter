@@ -37,7 +37,7 @@ Supported platform(s): **Windows 10**
   1. Word count is off by +/- 1 word. 
   2. Project doesn't backup properly after the first time.
 
-**Fixed Bugs**
+# **Fixed Bugs**
   1. **FIXED (11/25/2020):** When switching files, the file that you are switching from will occasionally overwrite the file you are switching to (happens with note files and chapter files).
   2. **FIXED (11/25/2020):** Current note's content would not update when deleting a note.
   3. **FIXED (11/27/2020):** Undo no longer just deletes everything you have written.
@@ -46,7 +46,7 @@ Supported platform(s): **Windows 10**
   6. **FIXED (12/14/2020):** When holding Ctrl + Z to undo, the cursor gets out of place and not everything is able to be undone that should be. **UPDATE (12/09/2020)** The cursor position is usually accurate, especially when tapping Ctrl + Z rather than holding. I am continuing to find a better solution using .NET Framework and Windows Forms.
   7. **FIXED (12/10/2020)** Copy and Paste was not working in version beta 4.
 
-**Updates**
+# **Updates**
   1. **11/25/2020:** Changed how zooming works. You can now use Ctrl + scrollwheel to zoom in and out freely and the application will remember your zoom settings. No manual typing option exists right now for zooming.  Overall workflow/usability improvements have been made.
   2. **11/27/2020** You can now right click on a word to see if it matches the name of your notes. A context menu will appear with every note whose name is closely matched so that you can click on one to open in a new (bare bones) note companion to edit. For example, say you are writting about a man named John. You reveal something new about his character and now you want to add that new info to his character sheet in your notes. Just right click on his name and you can directly access it from the context menu, no searching needed.
   3. **11/27/2020** Implemented bare bones note editor for note companion, cleaned glitches when closing bare bones editor. Also, you can now switch the note in the bare bones editor via the right click context menu. Notes are saved automatically before switching. 
